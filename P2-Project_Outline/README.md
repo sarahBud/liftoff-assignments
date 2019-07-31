@@ -4,7 +4,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
-## Submission Instructions
+## Submission Instructions - Trello Link
+https://trello.com/b/gQi8qIFD/wagtime
 
 ### Overview
 	I will be creating a dog walking business website. There will be 3 different logins clients, walkers and admins. 
