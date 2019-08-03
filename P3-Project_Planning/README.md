@@ -7,13 +7,17 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+Click download to see the images better!
+https://github.com/sarahBud/liftoff-assignments/blob/master/IMG_20190730_200229.jpg
+https://github.com/sarahBud/liftoff-assignments/blob/master/IMG_20190730_200238.jpg
+https://github.com/sarahBud/liftoff-assignments/blob/master/IMG_20190730_200247.jpg
+https://github.com/sarahBud/liftoff-assignments/blob/master/IMG_20190730_200328_2.jpg
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
+https://trello.com/b/gQi8qIFD/wagtime
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
 ### Project Repo Link
+https://github.com/sarahBud/wagtime
 
-(Include a link to your project on GitHub)
